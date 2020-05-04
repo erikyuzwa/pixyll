@@ -2,10 +2,12 @@
 
 ## Fork notes
 This is an *opinionated* fork of the Pixyll project!
+No real purpose or manifesto, other then to tackle a few enhancements I wanted in Pixyll:
 - updated to Jekyll 4.x
 - added a flag to enable/disable PWA support
 - added a separation bar between menu and social icons
 
+---
 
 [pixyll.com](http://www.pixyll.com)
 
