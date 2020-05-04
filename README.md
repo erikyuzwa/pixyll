@@ -7,6 +7,11 @@ No real purpose or manifesto, other then to tackle a few enhancements I wanted i
 - added a flag to enable/disable PWA support
 - added a separation bar between menu and social icons
 
+Clone this specific branch into your own repo with:
+```
+git clone -b develop git@github.com:erikyuzwa/pixyll.git <new_site_name>
+```
+
 ---
 
 [pixyll.com](http://www.pixyll.com)
