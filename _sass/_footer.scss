@@ -26,4 +26,9 @@ footer {
   font-weight: $footer-font-weight;
   padding: $footer-padding;
   text-align: center;
+
+  .social-icons-right {
+    text-align: center;
+    float: none;
+  }
 }

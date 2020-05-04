@@ -6,6 +6,7 @@ No real purpose or manifesto, other then to tackle a few enhancements I wanted i
 - updated to Jekyll 4.x
 - added a flag to enable/disable PWA support
 - added a separation bar between menu and social icons
+- added social icons in the footer
 
 Clone this specific branch into your own repo with:
 ```
