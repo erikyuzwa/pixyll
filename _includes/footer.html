@@ -15,7 +15,7 @@
 {% if site.enable_pwa %}<!-- PWA support -->
 <script type="text/javascript">
     if ("serviceWorker" in navigator) {
-      navigator.serviceWorker.register("{{ '/sw.js' | relative_url }}")
+      navigator.serviceWorker.register("{{ '/sw.js' | relative_url }}");
     }
 </script>{% endif %}
 
