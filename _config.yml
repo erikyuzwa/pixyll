@@ -126,7 +126,12 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - package.json
+  - package-lock.json
+  - yarn.lock
   - Rakefile
+  - LICENSE.txt
   - README.md
   - screenshot.png
+  - splash-512x512.png
   - vendor
